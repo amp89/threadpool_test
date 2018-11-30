@@ -1,8 +1,5 @@
 from multiprocessing.pool import ThreadPool
-from threading import Thread
-import subprocess
 import time
-import random
 import sys
 
 
